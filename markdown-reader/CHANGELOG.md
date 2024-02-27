@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+## [0.1.2](https://github.com/joshka/tui-markdown/compare/markdown-reader-v0.1.1...markdown-reader-v0.1.2) - 2024-02-27
+
+### Added
+- add filename and pageUp/Down
+
+### Fixed
+- add pages down and up to scroll
+- make scrollbar respect end of file
+
+### Other
+- make logging scrollable
+
 ## [0.1.1](https://github.com/joshka/tui-markdown/compare/markdown-reader-v0.1.0...markdown-reader-v0.1.1) - 2024-02-27
 
 ### Added

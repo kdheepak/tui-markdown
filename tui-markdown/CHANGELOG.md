@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+## [0.2.0](https://github.com/joshka/tui-markdown/compare/tui-markdown-v0.1.1...tui-markdown-v0.2.0) - 2024-02-27
+
+### Added
+- add filename and pageUp/Down
+- support code blocks in tui-markdown
+
+### Other
+- add note about newlines
+
 ## [0.1.1](https://github.com/joshka/tui-markdown/compare/tui-markdown-v0.1.0...tui-markdown-v0.1.1) - 2024-02-27
 
 ### Other
